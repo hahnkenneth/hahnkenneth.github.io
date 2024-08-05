@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.tesla.com/manufacturing'>Ex-Tesla</a> |  <a href='https://www.pgchemicals.com/oleochemicals-products/fatty-alcohol'>Ex-Procter & Gamble</a> | Process Engineer turned Data Scientist.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Kenneth_Hahn_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><strong>Address:</strong></p>
     <p>14502 Los Fuentes Rd.</p>
     <p>La Mirada, CA 90638</p>
+    <p><strong>Phone Number:</strong></p>
+    <p>+1(951) 207-2607</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! Welcome to my portfolio. My name is Kenneth Hahn and I'm a chemical engineer turned aspiring data scientist. Since I graduated from U.C. Berkeley in 2020 with an undergraduate degree in chemical engineering and a minor in mechanical engineering, I have worked in the manufacturing industry as a Process Engineer, producing battery packs for Tesla vehicles and high chained fatty alcohols for Procter & Gamble (the precursor to all your favorite soap products!).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Working in manufacturing has helped develop my curiousity in asking and answering questions. Questions such as "how does a 1% increase in throughput affect a valve's feedback control?" or "How do we reduce the cost per carset needed to manufacture a battery pack by $5/carset?" are critical toward the functionality of any business. And what I've realized from delving into these questions is that the journey to get to the answer relies on the reliable collection and analysis of data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+So that's what has led me down this path of becoming a data scientist. I strive to answer questions and understand the statistics and data that drive change. My unique engineering background allows me to visualize problems from a fresh persepective that I hope to solve using my manufacturing experience and my current re-enrollment at U.C. Berkeley, this time pursuing a Master's in Data Science. Please explore my projects and my other experiences on this page and I am always available to help answer any questions!
