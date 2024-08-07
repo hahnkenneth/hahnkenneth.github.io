@@ -21,8 +21,15 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Hello! Welcome to my portfolio. My name is Kenneth Hahn and I'm a chemical engineer turned aspiring data scientist. Since I graduated from U.C. Berkeley in 2020 with an undergraduate degree in chemical engineering and a minor in mechanical engineering, I have worked in the manufacturing industry as a Process Engineer, producing battery packs for Tesla vehicles and high chained fatty alcohols for Procter & Gamble (the precursor to all your favorite soap products!).
+Hello! I'm Kenneth Hahn, a Chemical Engineer turned Aspiring Data Scientist. Welcome to my Portfolio!
 
-Working in manufacturing has helped develop my curiousity in asking and answering questions. Questions such as "how does a 1% increase in throughput affect a valve's feedback control?" or "How do we reduce the cost per carset needed to manufacture a battery pack by $5/carset?" are critical toward the functionality of any business. And what I've realized from delving into these questions is that the journey to get to the answer relies on the reliable collection and analysis of data.
+I graduated from U.C. Berkeley in 2020 with a degree in Chemical Engineering and a minor in Mechanical Engineering. Since then, I’ve been working in the manufacturing industry as a Process Engineer, where I’ve had the opportunity to contribute to the production of battery packs for Tesla vehicles and high-chained fatty alcohols for Procter & Gamble—the precursors to many of your favorite soap products!
 
-So that's what has led me down this path of becoming a data scientist. I strive to answer questions and understand the statistics and data that drive change. My unique engineering background allows me to visualize problems from a fresh persepective that I hope to solve using my manufacturing experience and my current re-enrollment at U.C. Berkeley, this time pursuing a Master's in Data Science. Please explore my projects and my other experiences on this page and I am always available to help answer any questions!
+My experience in manufacturing has nurtured my curiosity and passion for problem-solving. I’ve tackled critical questions like, "How does a 1% increase in throughput affect a valve's feedback control?" and "How can we reduce the cost per carset needed to manufacture a battery pack by $5/carset?" These questions are vital to any business, and what I’ve learned is that finding answers requires reliable data collection and thorough analysis.
+
+This realization has led me down the path to becoming a Data Scientist. I am driven by a desire to answer complex questions and to understand the data and statistics that fuel meaningful change. My engineering background equips me with a unique perspective, enabling me to approach problems creatively and effectively.
+
+Currently, I am furthering my education by pursuing a Master’s in Data Science at U.C. Berkeley. I’m excited to combine my engineering experience with advanced data science skills to solve real-world problems.
+
+Feel free to explore my projects and other experiences on this site. I’m always open to connecting and discussing how data can drive innovation. Don’t hesitate to reach out if you have any questions!
+

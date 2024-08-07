@@ -20,6 +20,10 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
+          {% if profile.subheader != '' %}
+            <h2 class="subheader" style="text-align: {% if profile.header_align == 'left' %}left{% elif profile.header_align == 'right' %}right{% else %}center{% endif %};">
+          {{ profile.subheader }}</h2>
+          {% endif %}
         </div>
 
         <div class="clearfix">
