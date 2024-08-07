@@ -6,6 +6,10 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
+      {% if profile.subheader != '' %}
+        <h2 class="subheader" style="text-align: {% if profile.header_align == 'left' %}left{% elsif profile.header_align == 'right' %}right{% else %}center{% endif %};">
+      {{ profile.subheader }}</h2>
+      {% endif %}
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -19,10 +23,6 @@ layout: page
           {% endif %}
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-          {% if profile.subheader != '' %}
-            <h2 class="subheader" style="text-align: {% if profile.header_align == 'left' %}left{% elif profile.header_align == 'right' %}right{% else %}center{% endif %};">
-          {{ profile.subheader }}</h2>
           {% endif %}
         </div>
 
