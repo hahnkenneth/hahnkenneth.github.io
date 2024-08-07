@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kenneth Hahn",
+    "label": "Process Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hahnkenneth@berkeley.edu",
+    "phone": "(951) 207-2607",
+    "url": "",
+    "summary": "A results-driven Chemical Engineer with four years of experience in manufacturing, specializing in process optimization and data-driven decision-making. Currently transitioning into the Data Science field, leveraging a strong analytical background and hands-on engineering experience to drive business decisions and create impactful solutions. Passionate about using data to solve complex problems and eager to contribute to a forward-thinking organization.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1679 River Birch Ct.",
+      "postalCode": "CA 90638",
+      "city": "La Mirada",
       "countryCode": "US",
       "region": "California"
     },
@@ -22,179 +22,142 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://ischoolonline.berkeley.edu/data-science/curriculum/",
+      "area": "Data Science",
+      "studyType": "M.I.D.S.",
+      "startDate": "2024-01-08",
+      "endDate": "2025-08",
+      "score": "4.0",
+      "courses": ["Applied Machine Learning","Fundamentals of Data Engineering","Statistics for Data Science","Data Science Programming","Research Design and Applications for Data and Analysis"]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://chemistry.berkeley.edu/ugrad/degrees/cheme",
+      "area": "Chemical Engineering (Major) and Mechanical Engineering (Minor)",
+      "studyType": "B.S.",
+      "startDate": "2016-08",
+      "endDate": "2020-05",
+      "score": "3.623",
+      "courses": ["Chemical Engineering Laboratory","Computational Modeling of Chemical Processes","Process Control and Dynamics","Aerodynamics","Properties of Materials","Transport and Separations Processes","Chemical Kinetics and Reactor Design","Solid State Mechanics: Statics and Dynamics"]
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Tesla",
+      "position": "Battery Pack Process Engineer",
+      "url": "https://www.tesla.com/models",
+      "startDate": "2022-02",
+      "endDate": "2024-07",
+      "location": "Fremont, CA",
+      "summary": "Optimized manufacturing process for the Model S, Model X, Cybertruck, and other undisclosed model battery packs, contributing to enhanced production efficiency, quality, and safety.",
+      "highlights": ["Created process for a new subassembly line via Postman API calls to parallelize workload and increase production of battery packs by 33%.",
+                    "Decreased electrical resistances in battery pack to assist in safe operation of the vehicle, resulting in a statistical reduction of 57,430 defects per million to 98 defects per million.",
+                  "Utilized A/B testing to determine supplier quality issues with fasteners, leading to a 20% yield percentage increase.",
+                "Improved leak test processes utilizing statistical process control, reducing the number of off-roaded vehicles and saving the company $800K/year.",
+              "Developed Tableau Dashboards to monitor critical equipment metrics for the new Cybertruck launch."]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Procter and Gamble",
+      "position": "Hydrogenation Fatty Alcohol Manufacturing Engineer",
+      "url": "https://www.pgchemicals.com/oleochemicals-products/fatty-alcohol",
+      "startDate": "2020-08",
+      "endDate": "2022-02",
+      "location": "Sacramento, CA",
+      "summary": "Improved hydrogenation reaction process to develop alcohol hydrocarbon products, minimized unplanned downtime, and ensured optimal reaction conversions.",
+      "highlights": ["Experimented and executed an increase to site throughput of Fatty Alcohol Product by 1%, resulting a site revenue gain of approximately $3M/year, without the use of capital spending.",
+                    "Utilized process control strategies to tune a pressure control valve to allow higher pressures in the reactors. This led to a 0.2% increase in reaction completions and overall throughput.",
+                  "Used problem solving tools to reduce water usage in the site, leading to a 100 GPM reduction in well water usage.",
+                "Saved the business $120K/year by optimizing flow rates of caustic through experimental tests.",
+              "Eliminated 10% of nuisance alarms through MATLAB, collecting occurrence data and determining root cause for each. "]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "SQL",
+        "R",
+        "NoSQL",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Visualization",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Tableau",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "JMP",
+        "ggplot2",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "mySQL",
+        "PostgresSQL",
+        "NoSQL",
+        "Neo4j"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Pandas",
+        "SciPy",
+        "NumPy",
+        "RStudio"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Scikit-learn",
+        "XGBoost",
+        "Tensorflow",
+        "PyTorch",
+        "Keras"
+      ]
+    },
+    {
+      "name": "Code Management",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git/Github",
+        "Jupyter Notebooks",
+        "Visual Studio"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Conversational",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
