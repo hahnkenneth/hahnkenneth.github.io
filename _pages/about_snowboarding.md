@@ -1,0 +1,3 @@
+Snowboarding is one of my favorite hobbies in the wintertime! Living in the Bay Area and Sacramento for the past eight years put me in close proximity to one of the most pristine snowboarding locations in North America, Lake Tahoe.
+
+I've been snowboarding since I was young, but couldn't find much reason to go until after I graduated college. Since then, I've been going every winter and try to mix in travelling along with my snowboarding hobby, going to resorts in Utah, Colorodo, and to Mammoth Mountain in California. I'm always looking for more snowboarding friends and anyone with an Ikon Season Pass! I'm hoping to visit more places and snowboard a lot more in the years to come!
