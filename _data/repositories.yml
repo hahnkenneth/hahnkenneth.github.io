@@ -1,13 +1,11 @@
 github_users:
   - hahnkenneth
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - hahnkenneth/DataSci_205_Sustainable_Delivery_Service
+  - hahnkenneth/DataSci_203_Blood_Pressure_Linear_Regression
+  - hahnkenneth/DataSci_203_VotingDifficulty_vs_PoliticalParty
+  - hahnkenneth/DataSci_200_WFH_Trips
+  - hahnkenneth/DataSci_200_Second_Price_Auction
