@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collections of projects that I have worked on personally or through school.
+description: A collection of projects that I have worked on personally or through school.
 nav: true
 nav_order: 3
-display_categories: [Data Engineering, Statistics, Python Programming]
+display_categories: [Machine Learning, Data Engineering, Statistics, Python Programming]
 horizontal: false
 ---
 

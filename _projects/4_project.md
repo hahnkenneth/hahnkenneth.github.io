@@ -1,80 +1,29 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Remote Work and Travelling
+description: Data Analytics with Python
+img: assets/img/wfh.jpg
+report_pdf: Final Report.pdf
 importance: 3
 category: Python Programming
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<header class="post-header">
+    <h1 class="post-title">
+        <a
+        href="{{ page.report_pdf | prepend: 'assets/pdf/' | relative_url}}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="float-middle"
+        ><i class="fa-solid fa-file-pdf"></i
+        ></a>
+    </h1>
+</header>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This was a data anlytics and visualization project on the impact of COVID, work from home (WFH) job postings, and both of their impacts on travelling (measured by the number of trips that people took). The data was taken from two sources, [the Trips by Distance dataset](https://catalog.data.gov/dataset/trips-by-distance) and [the WFH map](https://wfhmap.com/data/), where the Trips by Distance dataset measures the number of trips that were taken over time for each state and county while the WFH map shows data on WFH map shows the number of job postings by state. Our goal was to analyze various time trends on the state and national level to create a visual representation of how travelling has evolved due to COVID and the increase in job postings.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The results of the model as well as the assumptions and evaluations are in the pdf report above and below. The code, report, and presentation files can be found in the Github Repository [here](https://github.com/hahnkenneth/DataSci_200_WFH_Trips).
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<iframe src="/assets/pdf/Final Report.pdf" width="100%" height="600px">
+</iframe>
