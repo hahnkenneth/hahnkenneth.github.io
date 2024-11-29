@@ -9,9 +9,6 @@ profile:
   image: Kenneth_Hahn_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Address:</strong></p>
-    <p>14502 Los Fuentes Rd.</p>
-    <p>La Mirada, CA 90638</p>
     <p><strong>Phone Number:</strong></p>
     <p>+1(951) 207-2607</p>
 
