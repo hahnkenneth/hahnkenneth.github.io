@@ -3,6 +3,7 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
+  - hahnkenneth/DataSci_207_Exoplanet_Detection_Classifier
   - hahnkenneth/ML_Personal_Budgeter
   - hahnkenneth/DataSci_205_Sustainable_Delivery_Service
   - hahnkenneth/DataSci_203_Blood_Pressure_Linear_Regression
