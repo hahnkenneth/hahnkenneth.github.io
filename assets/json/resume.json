@@ -52,7 +52,7 @@
       "position": "Battery Pack Process Engineer",
       "url": "https://www.tesla.com/models",
       "startDate": "2022-02",
-      "endDate": "2024-07",
+      "endDate": "2024-06",
       "location": "Fremont, CA",
       "summary": "Optimized manufacturing process for the Model S, Model X, Cybertruck, and other undisclosed model battery packs, contributing to enhanced production efficiency, quality, and safety.",
       "highlights": ["Created process for a new subassembly line via Postman API calls to parallelize workload and increase production of battery packs by 33%.",
